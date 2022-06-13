@@ -1,18 +1,90 @@
-=== Hi there 👋
+image:steve-moyer2.png[]
 
-image:steve moyer.png[]
+[quote, Vitruvius, De architectura]
+____
+Firmitas, Utilitas et Venustas
+____
 
-<!--
-**smoyer64/smoyer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+== Born to build
 
-Here are some ideas to get you started:
+For as long as I can remember, I've been building - with wooden blocks
+as a toddler, Legos in elementary school (and perhaps a bit longer) and
+in wood, metal and plastic as my training progressed and my skills
+improved.  In high-school, I discovered electronics and quickly grew to
+love embedded systems.  And making a career out of what you love is an
+awesome way to earn a living.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Two-thousand years ago, Vitruvius penned the quote shown above -
+throughout my practice as an engineer, I've come to realize that well 
+designed and implemented systems often have these three attributes.  I've
+also learned that maintainability is an equally important facet of a
+product.  Today's embedded systems, such as a consumer grade router, can
+be upgraded but how many customers actually do?
+
+Lately I've focused on producing software products that share these four
+traits.  It's estimated that the cost of creating a software product
+accounts for only 20% of the total cost over its lifetime.  If
+maintenance accounts for the other 80%, creating maintainable software
+can have a huge ROI.  The SOLID principles, Clean Code principles, DRY,
+and YAGNI - applied pragmatically instead of becoming a zealous dogma -
+help guide our system design to achieve these four architectural
+principles.
+
+I've got a wide range of interests and experience that's waiting to be
+put to use - what can I build for you?
+
+== I'm currently working on ...
+
+* A Go implementation of the Hyper protocols.
+* Digitizing and indexing my journal.
+* A giant lazy-susan to organize an awkward storage space.
+* A junk-rigged sampan sailing dinghy.
+
+== I'm currently learning ...
+
+* Write-Once-Run-Anywhere with WebAssembly (WASM).
+* Client GUIs with Fyne.
+* HyperCore storage formats.
+
+== I'm currently reading ...
+
+* https://amzn.to/3HgNdn2[Black Hat Go] by Tom Steele, Chris Patten and
+  Dan Kottmann
++
+Go Programming for Hackers and Pentesters
+
+* https://amzn.to/3QisqDB[The Voltage Effect] by John A. List
++
+How to Make Good Ideas Great and Great Ideas Scale
+
+* https://amzn.to/3HkNiGj[Save Me Plz and Other Stories] by David Barr
+  Kirtley
+
+{nbsp}
+
+''''
+
+[.text-center]
+image:https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge[link="https://www.linkedin.com/in/stevemoyer/"]
+image:https://img.shields.io/hackernews/user-karma/smoyer?color=%23ff6600&label=Hackernews%20karma&style=for-the-badge[HackerNews User Karma]
+image:https://img.shields.io/stackexchange/stackoverflow/r/17008?style=for-the-badge[link="https://stackoverflow.com/users/17008/steve-moyer?tab=profile]
+image:https://img.shields.io/keybase/pgp/smoyer?style=for-the-badge&color=%2300ff00[link="https://keybase.io/smoyer"]
+
+// https://www.sitepoint.com/github-profile-readme/
+// https://powerman.name/doc/asciidoc
+// https://shields.io/
+// https://www.linkedin.com/in/stevemoyer/
+// https://stackoverflow.com/users/17008/steve-moyer?tab=profile
+// https://keybase.io/smoyer
+// https://news.ycombinator.com/user?id=smoyer
+
+// Here are some ideas to get you started:
+
+// - 🔭 I’m currently working on ...
+// - 🌱 I’m currently learning ...
+// - 👯 I’m looking to collaborate on ...
+// - 🤔 I’m looking for help with ...
+// - 💬 Ask me about ...
+// - 📫 How to reach me: ...
+// - 😄 Pronouns: ...
+// - ⚡ Fun fact: ...
