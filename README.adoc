@@ -65,10 +65,10 @@ How to Make Good Ideas Great and Great Ideas Scale
 ''''
 
 [.text-center]
-image:https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge[link="https://www.linkedin.com/in/stevemoyer/"]
-image:https://img.shields.io/hackernews/user-karma/smoyer?color=%23ff6600&label=Hackernews%20karma&style=for-the-badge[HackerNews User Karma]
-image:https://img.shields.io/stackexchange/stackoverflow/r/17008[link="https://stackoverflow.com/users/17008/steve-moyer?tab=profile]
-image:https://img.shields.io/keybase/pgp/smoyer?style=for-the-badge&color=%2300ff00[link="https://keybase.io/smoyer"]
+image:https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white[link="https://www.linkedin.com/in/stevemoyer/"]
+image:https://img.shields.io/hackernews/user-karma/smoyer?color=%23ff6600&label=Hackernews%20karma&style=flat[link="https://news.ycombinator.com/user?id=smoyer"]
+image:https://img.shields.io/stackexchange/stackoverflow/r/17008[link="https://stackoverflow.com/users/17008/steve-moyer?tab=profile"]
+image:https://img.shields.io/keybase/pgp/smoyer?color=%2300ff00[link="https://keybase.io/smoyer"]
 
 // https://www.sitepoint.com/github-profile-readme/
 // https://powerman.name/doc/asciidoc
