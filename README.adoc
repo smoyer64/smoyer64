@@ -70,6 +70,8 @@ image:https://img.shields.io/hackernews/user-karma/smoyer?color=%23ff6600&label=
 image:https://img.shields.io/badge/StackOverflow-5.6k-yellowgreen[link="https://stackoverflow.com/users/17008/steve-moyer?tab=profile"]
 image:https://img.shields.io/keybase/pgp/smoyer?color=blueviolet[link="https://keybase.io/smoyer"]
 
+// References (used to create this page)
+
 // https://www.sitepoint.com/github-profile-readme/
 // https://powerman.name/doc/asciidoc
 // https://shields.io/
