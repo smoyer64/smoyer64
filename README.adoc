@@ -48,10 +48,9 @@ put to use - what can I build for you?
 
 == I'm currently reading ...
 
-* https://amzn.to/3HgNdn2[Black Hat Go] by Tom Steele, Chris Patten and
-  Dan Kottmann
+* https://amzn.to/3Xw13sU[1984] by George Orwell
 +
-Go Programming for Hackers and Pentesters
+Big Brother is Watching You
 
 * https://amzn.to/3QisqDB[The Voltage Effect] by John A. List
 +
